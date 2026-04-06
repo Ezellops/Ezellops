@@ -1,4 +1,4 @@
-**<div align="center">
+****<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=Geleceği%20Kodluyorum&fontSize=40&fontColor=ffffff" />
 </div>
 
@@ -24,4 +24,5 @@ Sıradan kodlar değil, sınırları zorlayan fütüristik, hızlı ve siber gü
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2ff" />
 </div>
+**
 **

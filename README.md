@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff,ff00ff&height=180&section=header&text=E_Z_E_L_L_O_P_S&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%">
+**<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff,ff00ff&height=180&section=header&text=E_Z_E_L_L_O_P_S&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%">
 # <div align="center">Digital Architect | Full-Stack Systems Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="28"></div>
 <div align="center">
   <i>Building high-performance, scalable, and visually striking digital ecosystems. Fusing code with aesthetic.</i>
@@ -36,3 +36,4 @@
 
 ---
 <div align="center">`// End_of_Node // System_Clock: [Current_Time]`</div>
+**

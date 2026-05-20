@@ -94,7 +94,7 @@
     <th width="50%">Description</th>
   </tr>
   <tr>
-    <td><b><a href="https://aethel.online">Aethel Web Solutions</a></b></td>
+    <td><b><a href="https://aethel.com.tr">Aethel Web Design</a></b></td>
     <td>HTML, CSS, JS, Node.js</td>
     <td>Futuristic, high-performance corporate web design agency and scalable hosting platform.</td>
   </tr>
@@ -104,12 +104,12 @@
     <td>Advanced AI-powered voice assistant capable of executing complex local system and web search commands.</td>
   </tr>
   <tr>
-    <td><b>DonutSmpTR</b></td>
+    <td><b>DonutSTR</b></td>
     <td>Java, Web, Nginx</td>
     <td>Optimized and heavily modified game server infrastructure combined with a seamless web ecosystem.</td>
   </tr>
   <tr>
-    <td><b>Trae Portfolio</b></td>
+    <td><b>Web Design</b></td>
     <td>HTML, CSS, UI/UX</td>
     <td>Custom-designed, futuristic-themed digital portfolio interface demonstrating advanced styling techniques.</td>
   </tr>

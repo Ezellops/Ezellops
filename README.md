@@ -1,10 +1,10 @@
-<!-- ══════════════ MODERN HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Ezel&fontSize=80&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%C2%B7%20Automation&descSize=20&descAlignY=58" alt="header"/>
+<!-- ══════════════ TYPING: HELLO WORLD ══════════════ -->
+<h1 align="center">Ezel</h1>
+<p align="center"><b>Full-Stack Developer · Discord Bots · Automation</b></p>
 
-<!-- ══════════════ TYPING ══════════════ -->
 <p align="center">
   <a href="https://github.com/ezellops">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Merhaba+D%C3%BCnya%22)+%F0%9F%91%8B;Full-Stack+Developer;Discord+Bot+%26+Otomasyon+Geli%C5%9Ftirici;Temiz+kod.+Ak%C4%B1ll%C4%B1+sistemler." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);print(%22Hello+World%22);System.out.println(%22Hello+World%22);fmt.Println(%22Hello+World%22);println!(%22Hello+World%22);printf(%22Hello+World%22);echo+%22Hello+World%22" alt="typing" />
   </a>
 </p>
 
@@ -108,6 +108,3 @@ const ezel = {
 <p align="center">
   <i>"Basitlik, karmaşıklığın en gelişmiş hâlidir."</i>
 </p>
-
-<!-- ══════════════ FOOTER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=130&section=footer" alt="footer"/>

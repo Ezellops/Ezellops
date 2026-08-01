@@ -1,5 +1,5 @@
 <!-- ══════════════ MODERN HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:8B5CF6,100:06B6D4&height=250&section=header&text=Ezel&fontSize=90&fontColor=F8FAFC&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Bot%20%26%20Automation%20Engineer&descSize=20&descAlignY=75" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Ezel&fontSize=80&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Bot%20%26%20Automation%20Engineer&descSize=20&descAlignY=58" alt="header"/>
 
 <!-- ══════════════ TYPING ══════════════ -->
 <p align="center">
@@ -69,7 +69,7 @@ const ezel = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ezellops&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&locale=tr" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=ezellops&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=C9D1D9&dates=8B949E&locale=tr" alt="streak" />
 </p>
 
 <p align="center">
@@ -110,4 +110,4 @@ const ezel = {
 </p>
 
 <!-- ══════════════ FOOTER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:06B6D4,50:8B5CF6,100:6366F1&height=140&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=130&section=footer" alt="footer"/>

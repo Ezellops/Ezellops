@@ -1,130 +1,88 @@
-<h2>Hi, I'm Ezel 👋</h2>
-
-<p>I'm a developer passionate about coding, system architecture, and solving complex problems. For me, programming is not just a skill—it's a way to express creativity and tackle challenging logic. Over the years, I've worked on several exciting projects with a primary focus on Full-Stack Web Development, Server Administration, API Development, and integrating AI-driven solutions.</p>
-
-<details>
-  <summary><b>📖 Quick Bio</b></summary>
-  <br>
-  <ul>
-    <li>🧑‍💻 Actively transitioning into advanced software engineering, focusing on scalable web ecosystems.</li>
-    <li>🔭 Currently architecting high-performance websites and Python-based artificial intelligence assistants.</li>
-    <li>🛡️ Exploring cybersecurity protocols, penetration testing tools, and secure network tunneling.</li>
-    <li>🎮 Managing, optimizing, and deploying heavy-load game server infrastructures.</li>
-  </ul>
-</details>
-
-<hr>
-
-<h3 align="center">Technologies and Skills</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>Web & Scripting</b><br><br>
-      <img src="https://skillicons.dev/icons?i=js,py,html,css" alt="Web Scripting" />
-    </td>
-    <td align="center" width="33%">
-      <b>Back-End & Databases</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Databases" />
-    </td>
-    <td align="center" width="33%">
-      <b>DevOps & Infrastructure</b><br><br>
-      <img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,vercel" alt="DevOps Infra" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <b>Tools & IDEs</b><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,postman,powershell" alt="Tools IDEs" />
-    </td>
-    <td align="center" width="33%">
-      <b>Version Control</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
-    </td>
-    <td align="center" width="33%">
-      <b>Cybersecurity & Core</b><br><br>
-      <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,bash" alt="Cybersecurity OS" />
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h3>💡 What I Love to Build</h3>
-
-<ul>
-  <li><b>💻 Full-Stack Web Development</b><br>
-  Architecting high-performance, visually stunning, and responsive websites using modern HTML/CSS, JavaScript, and Node.js.</li>
-  <li><b>🤖 AI & Automation Systems</b><br>
-  Developing intelligent voice assistants and complex Discord bot ecosystems utilizing Python and robust API integrations.</li>
-  <li><b>🛡️ Secure Infrastructure & Server Ops</b><br>
-  Setting up, managing, and securing Virtual Dedicated Server (VDS) environments, configuring Nginx, and implementing Cloudflare defense layers.</li>
-  <li><b>🎮 Game Server Engineering</b><br>
-  Optimizing heavy-load networks, managing plugin ecosystems, and bridging the gap between game servers and web platforms.</li>
-</ul>
-
-<h3>🌱 Currently Learning</h3>
-
-<ul>
-  <li><b>Advanced Cybersecurity:</b> Deep diving into network analysis, secure tunneling protocols, and vulnerability assessments.</li>
-  <li><b>System Optimization:</b> Mastering backend performance tuning techniques for faster, highly scalable server experiences.</li>
-  <li><b>Modern UI/UX Design:</b> Elevating user interfaces with futuristic, accessible, and highly responsive architectural layouts.</li>
-</ul>
-
-<hr>
-
-<h3 align="center">GitHub Stats</h3>
+<h1 align="center">Merhaba, ben Ezel 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezellops&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <b>Full-Stack Developer</b> · Discord Bot Geliştirici · Otomasyon Meraklısı
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezellops&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezellops&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="48%" alt="Top Languages" />
-</p>
-
-<hr>
-
-<h3 align="center">Featured Projects</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <th width="25%">Project</th>
-    <th width="25%">Technologies</th>
-    <th width="50%">Description</th>
-  </tr>
-  <tr>
-    <td><b><a href="https://aethel.com.tr">Aethel Web Design</a></b></td>
-    <td>HTML, CSS, JS, Node.js</td>
-    <td>Futuristic, high-performance corporate web design agency and scalable hosting platform.</td>
-  </tr>
-  <tr>
-    <td><b>Mark-X.1</b></td>
-    <td>Python, Vosk, SerpApi</td>
-    <td>Advanced AI-powered voice assistant capable of executing complex local system and web search commands.</td>
-  </tr>
-  <tr>
-    <td><b>DonutSTR</b></td>
-    <td>Java, Web, Nginx</td>
-    <td>Optimized and heavily modified game server infrastructure combined with a seamless web ecosystem.</td>
-  </tr>
-  <tr>
-    <td><b>Web Design</b></td>
-    <td>HTML, CSS, UI/UX</td>
-    <td>Custom-designed, futuristic-themed digital portfolio interface demonstrating advanced styling techniques.</td>
-  </tr>
-</table>
 
 <p align="center">
-  <a href="https://github.com/Ezellops?tab=repositories"><b>Explore more projects on my GitHub 🚀</b></a>
+  <a href="https://github.com/ezellops?tab=followers">
+    <img src="https://img.shields.io/github/followers/ezellops?label=Takip%C3%A7i&style=social" alt="followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ezellops&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-<hr>
+---
 
-<h3>🤝 Connect With Me</h3>
+### 🚀 Hakkımda
+
+- 💻 Frontend & Backend tarafında **full-stack** projeler geliştiriyorum
+- 🤖 **Discord bot** geliştirme ve **otomasyon** sistemleri yazıyorum
+- 🌱 Sürekli yeni teknolojiler öğreniyor ve kendimi geliştiriyorum
+- ⚡ İş akışlarını otomatikleştirmeyi ve temiz kod yazmayı seviyorum
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+**Diller**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Framework & Kütüphaneler**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+**Veritabanı & Araçlar**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <a href="https://discord.gg/kkMzMR9jYx"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://instagram.com/aethelwebdesgin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://aethel.online"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00f2ff" alt="Website"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezellops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=tr" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezellops&layout=compact&langs_count=8&theme=tokyonight&locale=tr" alt="top langs" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezellops&theme=tokyonight&locale=tr" alt="streak" />
+</p>
+
+---
+
+### 🏆 Başarılar
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ezellops&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın
+
+<p align="center">
+  <a href="https://discord.com/users/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:dewil.skyline@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>“Kod yazmak bir sanattır, otomasyon ise onun ustalığıdır.” ⚡</i></p>

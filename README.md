@@ -55,12 +55,21 @@ const ezel = {
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ezellops&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&ring_color=6366F1&locale=tr" alt="stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezellops&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&locale=tr" alt="top langs" />
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezellops&theme=github_dark" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezellops&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&locale=tr" alt="streak" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezellops&theme=github_dark" alt="stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ezellops&theme=github_dark&utcOffset=3" alt="productive time" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezellops&theme=github_dark" alt="repos per language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezellops&theme=github_dark" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ezellops&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&locale=tr" alt="streak" />
 </p>
 
 <p align="center">

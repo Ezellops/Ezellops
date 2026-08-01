@@ -1,5 +1,5 @@
 <!-- ══════════════ MODERN HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Ezel&fontSize=80&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Bot%20%26%20Automation%20Engineer&descSize=20&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=230&section=header&text=Ezel&fontSize=80&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Discord%20Bots%20%C2%B7%20Automation&descSize=20&descAlignY=58" alt="header"/>
 
 <!-- ══════════════ TYPING ══════════════ -->
 <p align="center">
